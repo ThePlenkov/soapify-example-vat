@@ -1,0 +1,25 @@
+{
+  "name": "soapify-example-vat",
+  "version": "1.0.0",
+  "description": "Node.js API for http://ec.europa.eu/taxation_customs/vies/checkVatService.wsdl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "soapify": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThePlenkov/soapify-example-vat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ThePlenkov/soapify-example-vat/issues"
+  },
+  "homepage": "https://github.com/ThePlenkov/soapify-example-vat#readme"
+}
