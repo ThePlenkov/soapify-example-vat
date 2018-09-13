@@ -1,5 +1,7 @@
 # Node.JS API to check EU VAT numbers
 
+This is a nice example how soapify npm module can be used.
+
 Node.js API for http://ec.europa.eu/taxation_customs/vies/checkVatService.wsdl
 
 It supports two modes:
