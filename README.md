@@ -12,6 +12,7 @@ In this case just the URL is enough:
 localhost:3000/api/eu_vat/checkVat?countryCode=HU&vatNumber=104858XX
 
 2) Bulk check
+
 As there is no dedicated WSDL operation on the provider site what you can do is to send POST to URL like this:
 localhost:3000/api/eu_vat/checkVat
 
